@@ -1,5 +1,5 @@
 # CassazioneHybridRAG
-Un progetto di studio in corso per la raccolta, l'estrazione e l'analisi di dati testuali non strutturati provenienti dalle sentenze civili della Corte di Cassazione.
+Un progetto di studio in corso per la raccolta, l'estrazione e l'analisi di dati testuali non strutturati provenienti dalle sentenze civili della Corte di Cassazione per creare un ontologia di questo dominio per un sistema di information retrieval.
 
 ## Obiettivo del progetto
 Sperimentare e prototipare una pipeline end-to-end per il trattamento di documenti giuridici, partendo dall'automazione del recupero dati fino alla preparazione dei testi per future applicazioni di Information Retrieval e RAG (Retrieval-Augmented Generation).
