@@ -8,6 +8,8 @@ Sperimentare e prototipare una pipeline end-to-end per il trattamento di documen
 
 * **Web Scraping Automation:** Script in Python basato su Selenium per l'interrogazione automatizzata dell'archivio delle sentenze civili e l'estrazione dei documenti di interesse.
 * **Data Cleaning & Parsing:** Moduli per la pulizia del testo, la gestione dei margini e la normalizzazione strutturata dei PDF estratti.
-* **Segmentazione (in corso):** Divisione del testo in sezioni e paragrafi basandosi su formattazione e semantica del testo
+* **Chunking:** Divisione del testo in chunks.
+* **Estrazione Riferimenti Normativi** Estrazione riferimenti normativi per creare nodi del futuro grafo.
+* **Creazione Vector Database (in corso)**
 
 * **Linguaggio:** Python
