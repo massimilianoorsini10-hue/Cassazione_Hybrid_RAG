@@ -10,6 +10,8 @@ Sperimentare e prototipare una pipeline end-to-end per il trattamento di documen
 * **Data Cleaning & Parsing:** Moduli per la pulizia del testo, la gestione dei margini e la normalizzazione strutturata dei PDF estratti.
 * **Chunking:** Divisione del testo in chunks.
 * **Estrazione Riferimenti Normativi** Estrazione riferimenti normativi per creare nodi del futuro grafo.
-* **Creazione Vector Database (in corso)**
+* **Creazione Vector Database** generazione embedding dei chunk delle referenze con - **Embedding Model:** [dlicari/Italian-Legal-BERT](https://huggingface.co/dlicari/Italian-Legal-BERT) e popolamento del database vettoriale tramite Chroma
+*  **Creazione grafo (in corso)**
 
 * **Linguaggio:** Python
+
