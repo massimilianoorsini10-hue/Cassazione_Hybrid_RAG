@@ -1,4 +1,4 @@
-# CassazioneHybridRAG
+# Esperimento_RAG_Cassazione
 Un progetto di studio in corso per la raccolta, l'estrazione e l'analisi di dati testuali non strutturati provenienti dalle sentenze civili della Corte di Cassazione per creare un sistema di information retrieval. Essendo un progetto di studio di un principiante in questo ambito, consigli, suggerimenti e contributi a questo progetto sono più che benvenuti!
 
 ## Obiettivo del progetto
